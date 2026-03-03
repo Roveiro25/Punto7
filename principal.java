@@ -22,12 +22,12 @@ public class principal
         if (!met.estaVacia(mA)) 
             met.Mostrar(mA);
         else
-            System.out.println("No hay ningun estudiantebque tenga calificación A");
+            System.out.println("No hay ningun estudiante que tenga calificación A");
         
         if (!met.estaVacia(mB))
             met.Mostrar(mB);
         else
-            System.out.println("No hay ningun estudiantebque tenga calificación B");
+            System.out.println("No hay ningun estudiante que tenga calificación B");
         
         if (!met.estaVacia(mC)) 
             met.Mostrar(mC);
